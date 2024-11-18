@@ -1,0 +1,10 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: f1db
+Source: https://github.com/f1db/f1db
+
+Files: *
+Copyright: 2024, F1DB Contributors
+License: CC-BY-4.0
+ This work is licensed under a Creative Commons Attribution 4.0 International License.
+ You may obtain a copy of the license at https://creativecommons.org/licenses/by/4.0/.
+

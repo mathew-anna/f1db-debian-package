@@ -1,0 +1,13 @@
+Source: f1db
+Section: misc
+Priority: optional
+Maintainer: Anna Mathew <mathew.ann@northeastern.edu>
+Build-Depends: debhelper-compat (= 13), python3
+Standards-Version: 4.6.0
+Homepage: https://github.com/f1db/f1db
+Package: f1db
+Architecture: all
+Depends: ${python3:Depends}, ${misc:Depends}
+Description: Open-source Formula 1 racing database
+ F1DB provides a comprehensive database of Formula 1 racing data, including historical and current season statistics.
+
